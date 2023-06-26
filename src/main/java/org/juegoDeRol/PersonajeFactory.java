@@ -1,2 +1,5 @@
-package org.juegoDeRol;public interface PersonajeFactory {
+package org.juegoDeRol;
+
+public interface PersonajeFactory {
+    Personaje crearPersonaje();
 }
